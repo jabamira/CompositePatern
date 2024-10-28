@@ -1,0 +1,14 @@
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.GeneratedMSBuildEditorConfig.editorconfig
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.AssemblyInfoInputs.cache
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.AssemblyInfo.cs
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.csproj.CoreCompileInputs.cache
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\bin\Debug\net8.0\CompositePatern.exe
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\bin\Debug\net8.0\CompositePatern.deps.json
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\bin\Debug\net8.0\CompositePatern.runtimeconfig.json
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\bin\Debug\net8.0\CompositePatern.dll
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\bin\Debug\net8.0\CompositePatern.pdb
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.dll
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\refint\CompositePatern.dll
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.pdb
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\CompositePatern.genruntimeconfig.cache
+G:\3curse\Composite pattern\CompositePatern\CompositePatern\obj\Debug\net8.0\ref\CompositePatern.dll
